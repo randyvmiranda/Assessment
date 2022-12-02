@@ -1,0 +1,86 @@
+.main-header {
+  background: url(../images/image27.jpeg);
+  min-height: 600px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.main-header .showcase{
+  padding: 20px;
+}
+
+.main-header-Signup {
+  background: url(../images/image27.jpeg);
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.main-header-Signup .showcase{
+  padding: 20px;
+}
+
+.main-header-Contact {
+  background: url(../images/image27.jpeg);
+  min-height: 350px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.main-header-Contact .showcase{
+  padding: 20px;
+}
+
+.main-header-about {
+  background: url(../images/image27.jpeg);
+  min-height: 350px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.main-header-about .showcase{
+  padding: 20px;
+}
+
+.social-media-icons-white a{
+  color: blue;
+  font-size: 2rem;
+}
+
+.page-footer {
+  background: url(../images/image51.jpg);
+  min-height:300px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+
+.input-field>label {
+  color: rgb(58, 55, 55)
+}
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
+
+.responsive-img {
+  width: auto;
+}
+
+.slider .slides {
+  width: auto;
+}
+
+span.card-title {
+  font-size: 18px;
+}
+
+.card-action {
+  font-size: 16px;
+}
